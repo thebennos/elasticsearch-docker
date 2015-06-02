@@ -9,5 +9,5 @@ MAINTAINER Marc Lennox <marc.lennox@gmail.com>
 
 # Install plugins
 RUN \
-  cd /elasticsearch && \
+  cd /usr/share/elasticsearch && \
   bin/plugin -i mobz/elasticsearch-head
