@@ -3,7 +3,7 @@
 #
 # http://github.com/tenstartups/elasticsearch
 #
-FROM dockerfile/elasticsearch:latest
+FROM elasticsearch:latest
 
 MAINTAINER Marc Lennox <marc.lennox@gmail.com>
 
